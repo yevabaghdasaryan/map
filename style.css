@@ -1,0 +1,159 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+ }
+
+
+ body{
+   background-image: url('https://e1.pxfuel.com/desktop-wallpaper/256/214/desktop-wallpaper-colorful-world-map-world-map-1-yard-colorful-world.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
+ }
+
+
+ .wrapper{
+    
+    width: 1200px;
+    height: 800px;
+    border: 2px solid rgb(0, 0, 0);
+    position: relative;
+    margin: 70px auto;
+    border-radius: 50%;
+    
+ }
+
+ input{
+    position: absolute;
+    width: 200xp;
+    border-radius: 50xp;
+    text-align: center;
+    font-weight: 900;
+   background: rgb(241,192,30);
+    color: black;
+    padding: 20px;
+    border-radius: 50px;
+
+ }
+
+ input ::placeholder{
+    text-align: center;
+    
+
+ }
+
+
+
+ #left_1{
+    padding: 3%;
+    top: 15px;
+    right: 39%;
+    
+
+ }
+
+ #left_2{
+    padding: 1%;
+    font-weight: 500;
+    top: 63px;
+    right: 62%;
+    
+ }
+ #left_3{
+    padding: 1%;
+    font-weight: 500;
+    top: 63px;
+    right: 22%;
+ }
+
+ #left_4{
+    padding: 1%;
+    font-weight: 500;
+    top: 17%;
+    right: 12%;
+ }
+
+
+ #left_5{
+    padding: 1%;
+    font-weight: 500;
+    top: 17%;
+    right: 72%;
+ }
+
+ #left_6{
+    padding: 1%;
+    font-weight: 500;
+    top: 27%;
+    right:78%;
+ }
+
+ #left_7{
+    padding: 1%;
+    font-weight: 500;
+    top: 27%;
+    right:5%;
+ }
+
+ #left_8{
+    padding: 1%;
+    font-weight: 500;
+    top: 37%;
+    right:82%;
+ }
+
+ #left_9{
+    padding: 1%;
+    font-weight: 500;
+    top: 37%;
+    right:2%;
+ }
+
+ #left_10{
+    padding: 1%;
+    font-weight: 500;
+    top: 47%;
+    right:83%;
+ }
+ #left_11{
+    padding: 1%;
+    font-weight: 500;
+    top: 47%;
+    right:1%;
+ }
+
+ button{
+    position: absolute;
+    font-weight: 900;
+    top: 70%;
+    width: 300px;
+    padding: 50px;
+    right: 37%;
+     background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(249,255,0,1) 0%, rgba(255,253,88,1) 18%, rgba(253,255,179,1) 34%, rgba(255,255,255,1) 50%, rgba(253,255,179,1) 58%, rgba(252,255,113,1) 81%, rgba(249,255,0,1) 100%);;
+    border-radius: 50px;
+
+ }
+ 
+
+ h1{
+   background-color: rgb(255, 255, 255);
+ }
+
+ #Answer{
+   font-size: 35px;
+   position: absolute;
+   top: 250px;
+   right: 50%;
+ }
+
+ #quality{
+   font-size: 35px;
+   position: absolute;
+   top: 350px;
+   right: 42%;
+
+ }
